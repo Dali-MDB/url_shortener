@@ -27,3 +27,4 @@ env/
 # Database
 *.db
 *.sqlite3
+url/
